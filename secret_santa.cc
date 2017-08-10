@@ -103,7 +103,7 @@ int main()
 	s.insert(make_pair(3,2));
 	s.insert(make_pair(4,0));
 
-	/* Following comment makes it impossible to find a path. Uncomment and see.
+	/* Following constraints makes it impossible to find a path. Uncomment and see.
 	s.insert(make_pair(3,4));
 	s.insert(make_pair(4,3));
 	*/
